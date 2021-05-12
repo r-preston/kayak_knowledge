@@ -1,0 +1,16 @@
+[
+    {
+        "type": "subcategory",
+        "name": "skills_sc",
+        "title": "skills_sc",
+        "url": "skills_sc",
+        "categories": ["skills"]
+    },
+    {
+        "type": "subcategory",
+        "name": "whitewater_sc",
+        "title": "whitewater_sc",
+        "url": "whitewater_sc",
+        "categories": ["whitewater"]
+    }
+]

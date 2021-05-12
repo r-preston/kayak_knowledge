@@ -1,0 +1,36 @@
+[
+    {
+        "type": "page",
+        "name": "whitewater_page_1",
+        "title": "whitewater_page_1",
+        "url": "whitewater_page_1",
+        "subcategory": "whitewater_sc",
+        "file": "whitewater_page_1.md"
+    },
+    {
+        "type": "page",
+        "name": "whitewater_page_2",
+        "title": "whitewater_page_2",
+        "url": "whitewater_page_2",
+        "subcategory": "whitewater_sc",
+        "file": "whitewater_page_2.md"
+    },
+
+
+    {
+        "type": "page",
+        "name": "skills_page_1",
+        "title": "skills_page_1",
+        "url": "skills_page_1",
+        "subcategory": "skills_sc",
+        "file": "skills_1.md"
+    },
+
+    {
+        "type": "page",
+        "name": "links",
+        "title": "Links",
+        "url": "links",
+        "file": "links.md"
+    }
+]

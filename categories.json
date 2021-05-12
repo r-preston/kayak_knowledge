@@ -1,1 +1,20 @@
-
+[
+    {
+        "type": "category",
+        "name": "whitewater",
+        "title": "Whitewater",
+        "url": "whitewater"
+    },
+    {
+        "type": "category",
+        "name": "skills",
+        "title": "Skills",
+        "url": "skills"
+    },
+    {
+        "type": "category",
+        "name": "links",
+        "title": "Links",
+        "url": "links"
+    }
+]

@@ -1,0 +1,4 @@
+*.sublime-*
+*.html
+*.sql
+knowledge/*

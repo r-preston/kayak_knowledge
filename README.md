@@ -14,6 +14,8 @@ Content is distributed among many `pages`. Each `page` belongs to a single `subc
 
 Data for each level is stored in a corresponding `.json` file, which can be compiled into a set of linked up `.html` files with `build.py`. Content for each page is written in github-flavoured markdown in a file like `content/{name}.md`, the name of which is specified in `pages.json`
 
+Note: categories and subcategories are collapsed if they have only one child: for example if a subcategory has only one associated page then any references to that subcategory will map directly to the page instead.
+
 All images/videos should be placed in `resources/` and linked using relative paths
 
 ## Usage
