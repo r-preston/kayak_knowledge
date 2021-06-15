@@ -1,0 +1,51 @@
+[
+    {
+        "type": "page",
+        "name": "how_people_learn",
+        "url": "how_people_learn",
+        "title": "How People Learn",
+        "categories": ["coaching"],
+        "file": "how_people_learn.md"
+    },
+    {
+        "type": "page",
+        "name": "coaching_tips",
+        "url": "coaching_tips",
+        "title": "Coaching Tips",
+        "categories": ["coaching"],
+        "file": "coaching_tips.md"
+    },
+    {
+        "type": "page",
+        "name": "coaching_quals",
+        "url": "coaching_qualifications",
+        "title": "Coaching Qualifications",
+        "categories": ["coaching"],
+        "file": "coaching_quals.md"
+    },
+    {
+        "type": "page",
+        "name": "coaching_roll",
+        "url": "coaching_roll",
+        "title": "Coaching the Roll",
+        "categories": ["coaching"],
+        "file": "coaching_roll.md"
+    },
+    {
+        "type": "page",
+        "name": "ideas",
+        "url": "ideas",
+        "title": "The IDEAS structure",
+        "subtitle": "A common way of teaching a concept",
+        "categories": ["coaching"],
+        "file": "IDEAS.md"
+    },
+    {
+        "type": "page",
+        "name": "session_structure",
+        "url": "session_structure",
+        "title": "Planning a Session",
+        "categories": ["coaching"],
+        "file": "session_structure.md"
+    }
+]

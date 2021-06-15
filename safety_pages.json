@@ -1,0 +1,118 @@
+[
+    {
+        "type": "page",
+        "name": "how_to_swim",
+        "url": "how_to_swim",
+        "title": "How to Swim Safely",
+        "subcategory": "safety_skills",
+        "file": "how_to_swim.md"
+    },
+    {
+        "type": "page",
+        "name": "chaseboating",
+        "url": "chaseboating",
+        "title": "Chaseboating",
+        "subcategory": "safety_skills",
+        "file": "chaseboating.md"
+    },
+    {
+        "type": "page",
+        "name": "throwlining",
+        "url": "throwlining",
+        "title": "Throwlining and Rescuing Swimmers",
+        "subcategory": "safety_skills",
+        "file": "throwlining.md"
+    },
+    {
+        "type": "page",
+        "name": "pulleys",
+        "url": "pulleys",
+        "title": "Pulleys and Mechanical Advantage",
+        "subcategory": "safety_skills",
+        "file": "pulleys.md"
+    },
+    {
+        "type": "page",
+        "name": "spotting_hazards_safety",
+        "url": "spotting_hazards",
+        "title": "Spotting Hazards",
+        "subcategory": "safety_skills",
+        "file": "spotting_hazards_safety.md"
+    },
+    {
+        "type": "page",
+        "name": "roll_assist",
+        "url": "roll_assist",
+        "title": "Assisting Rolls",
+        "subcategory": "safety_skills",
+        "file": "roll_assist.md"
+    },
+    {
+        "type": "page",
+        "name": "rescue_priority",
+        "url": "rescue_priority",
+        "title": "Rescue Priority: STVE",
+        "subcategory": "rescues",
+        "file": "STVE.md"
+    },
+    {
+        "type": "page",
+        "name": "rescue_prep",
+        "url": "rescue_prep",
+        "title": "Preparing for Rescues",
+        "subtitle": "Setting up and getting ready to perform rescues",
+        "subcategory": "rescues",
+        "file": "rescue_prep.md"
+    },
+    {
+        "type": "page",
+        "name": "after_rescue",
+        "url": "after_rescue",
+        "title": "After a Rescue",
+        "subtitle": "Dealing with the aftermath once someone is out of direct danger",
+        "subcategory": "rescues",
+        "file": "after_rescue.md"
+    },
+    {
+        "type": "page",
+        "name": "scenario_pin",
+        "url": "pin",
+        "title": "Pin",
+        "subtitle": "When a boat is stuck upstream of an immobile obstacle",
+        "subcategory": "rescue_scenarios",
+        "file": "scenario_pin.md"
+    },
+    {
+        "type": "page",
+        "name": "scenario_foot_entrapment",
+        "url": "foot_entrapment",
+        "title": "Foot Entrapment",
+        "subcategory": "rescue_scenarios",
+        "file": "scenario_foot_entrapment.md"
+    },
+    {
+        "type": "page",
+        "name": "scenario_piton",
+        "url": "piton",
+        "title": "Piton",
+        "subtitle": "When the end of a boat gets stuck on the riverbed",
+        "subcategory": "rescue_scenarios",
+        "file": "scenario_piton.md"
+    },
+    {
+        "type": "page",
+        "name": "scenario_hole",
+        "url": "stuck_in_a_hole",
+        "title": "Stuck in a Hole",
+        "subcategory": "rescue_scenarios",
+        "file": "scenario_hole.md"
+    },
+    {
+        "type": "page",
+        "name": "safety_qualifications",
+        "url": "safety_qualifications",
+        "title": "Safety Qualifications",
+        "categories": ["safety"],
+        "file": "safety_qualifications.md"
+    }
+]

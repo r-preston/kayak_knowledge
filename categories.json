@@ -2,19 +2,91 @@
     {
         "type": "category",
         "name": "whitewater",
+        "url": "whitewater",
         "title": "Whitewater",
-        "url": "whitewater"
+        "subtitle": "Content relating to the navigation of whitewater rivers",
+        "description": "Whitewater rapids are fast and turbulent sections of rivers. The resources contain a variety of information relating to what makes up whitewater, how to paddle it safely and effectively, and links to more information to expand your skills.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
+    },
+    {
+        "type": "category",
+        "name": "safety",
+        "url": "safety",
+        "title": "Safety",
+        "subtitle": "How to stay safe and deal with problems while paddling",
+        "description": "One of the most important set of skills for any paddler is how to stay safe. All water is a dangerous environment if you lack the knowledge to avoid and deal with hazards. The resources below are aimed to educate about common hazards and how to avoid and deal with problems on the water.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
     },
     {
         "type": "category",
         "name": "skills",
+        "url": "skills",
         "title": "Skills",
-        "url": "skills"
+        "subtitle": "Tips for improving your paddling",
+        "description": "Below is a list of articles covering paddling skills from basic to advanced in a range of disciplines.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
     },
     {
         "type": "category",
-        "name": "links",
-        "title": "Links",
-        "url": "links"
+        "name": "leadership",
+        "url": "leadership",
+        "title": "Leadership",
+        "subtitle": "Resources for leaders",
+        "description": "When leading other paddlers or paddling amongst peers there is a lot to remember to keep things running smoothly. Below is a selection of some key information to keep in mind.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
+    },
+    {
+        "type": "category",
+        "name": "coaching",
+        "url": "coaching",
+        "title": "Coaching",
+        "subtitle": "Tips and resources to better your coaching skills",
+        "description": "Advancing your skills brings with it the opportunity to pass on your knowledge to others. These resources are aimed at developing your abilities as a coach.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
+    },
+    {
+        "type": "category",
+        "name": "equipment",
+        "url": "equipment",
+        "title": "Equipment",
+        "subtitle": "The ins and outs of what kit you need and why",
+        "description": "Being properly equipped can make a world of difference to safety and enjoyment in any environment. Click on the links below to learn more about what kit to use and when.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
+    },
+    {
+        "type": "category",
+        "name": "playboating",
+        "url": "playboating",
+        "title": "Playboating",
+        "subtitle": "Learn to throw tricks good",
+        "description": "Playboating is the art of doing tricks in a kayak. Not only does it look cool and feel rewarding it is also a great way to improve your overall fitness and paddling skills.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
+    },
+    {
+        "type": "category",
+        "name": "beginners",
+        "url": "beginners",
+        "title": "Beginner's Area",
+        "subtitle": "Just starting out? Check out this collection of resources on how to progress your skills, stay safe and learn about the sport.",
+        "description": "Just starting out? Check out this collection of resources on how to progress your skills, stay safe and learn about paddlesports and the varied disciplines that exist.",
+        "menu_category": "Canoe",
+        "display_in_menu": 0
+    },
+    {
+        "type": "category",
+        "name": "polo",
+        "url": "polo",
+        "title": "Polo knowledge",
+        "subtitle": "Is it rugby? Is it netball? No, it's Canoe Polo",
+        "description": "Resources on how to get good at throwing a ball around.",
+        "menu_category": "Canoe Polo",
+        "display_in_menu": 0
     }
 ]

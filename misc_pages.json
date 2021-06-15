@@ -1,0 +1,261 @@
+[
+    {
+        "type": "page",
+        "name": "resources",
+        "url": "resources",
+        "title": "Resources",
+        "subtitle": "A collection of useful sites, blogs, videos, books and more",
+        "file": "resources.md"
+    },
+    {
+        "type": "page",
+        "name": "eddies",
+        "url": "eddies",
+        "title": "Eddies",
+        "subcategory": "river_features",
+        "file": "eddies.md"
+    },
+    {
+        "type": "page",
+        "name": "holes",
+        "url": "holes",
+        "title": "Holes",
+        "subcategory": "river_features",
+        "file": "holes.md"
+    },
+    {
+        "type": "page",
+        "name": "waves",
+        "url": "waves",
+        "title": "Waves",
+        "subtitle": "",
+        "subcategory": "river_features",
+        "file": "waves.md"
+    },
+    {
+        "type": "page",
+        "name": "waterfalls",
+        "url": "waterfalls",
+        "title": "Drops and Waterfalls",
+        "subcategory": "river_features",
+        "file": "waterfalls.md"
+    },
+    {
+        "type": "page",
+        "name": "siphons",
+        "url": "siphons",
+        "title": "Siphons and Undercuts",
+        "subcategory": "river_features",
+        "file": "siphons.md"
+    },
+    {
+        "type": "page",
+        "name": "pillows",
+        "url": "pillows",
+        "title": "Pillow Waves",
+        "subcategory": "river_features",
+        "file": "pillows.md"
+    },
+    {
+        "type": "page",
+        "name": "environmental_hazards",
+        "url": "environmental_hazards",
+        "title": "environmental_hazards",
+        "subtitle": "Rocks, trees and more",
+        "subcategory": "river_features",
+        "file": "environmental_hazards.md"
+    },
+    {
+        "type": "page",
+        "name": "slides",
+        "url": "slides",
+        "title": "Slides",
+        "subcategory": "river_features",
+        "file": "slides.md"
+    },
+    {
+        "type": "page",
+        "name": "weirs",
+        "url": "weirs",
+        "title": "Weirs",
+        "subcategory": "river_features",
+        "file": "wiers.md"
+    },
+    {
+        "type": "page",
+        "name": "wucc_pool",
+        "url": "pool",
+        "title": "Pool Sessions",
+        "subcategory": "warwick_canoe",
+        "file": "wucc_pool.md"
+    },
+    {
+        "type": "page",
+        "name": "wucc_trips",
+        "url": "trips",
+        "title": "Trips",
+        "subcategory": "warwick_canoe",
+        "file": "wucc_trips.md"
+    },
+    {
+        "type": "page",
+        "name": "wucc_coaching",
+        "url": "coaching",
+        "title": "Coaching",
+        "subcategory": "warwick_canoe",
+        "file": "wucc_coaching.md"
+    },
+    {
+        "type": "page",
+        "name": "wucc_kit",
+        "url": "wucc_kit",
+        "title": "Kit Borrowing",
+        "subcategory": "warwick_canoe",
+        "file": "wucc_kit.md"
+    },
+    {
+        "type": "page",
+        "name": "wucc_leadership",
+        "url": "leadership_and_progression",
+        "title": "Leadership and Progression",
+        "subcategory": "warwick_canoe",
+        "file": "wucc_leadership.md"
+    },
+    {
+        "type": "page",
+        "name": "wucc_peerpaddling",
+        "url": "peer_paddling",
+        "title": "Peer Paddling",
+        "subcategory": "warwick_canoe",
+        "file": "wucc_peerpaddling.md"
+    },
+    {
+        "type": "page",
+        "name": "wucc_competitions",
+        "url": "competitions",
+        "title": "Competitions",
+        "subcategory": "warwick_canoe",
+        "file": "wucc_competitions.md"
+    },
+    {
+        "type": "page",
+        "name": "whitewater",
+        "url": "whitewater",
+        "title": "Whitewater Kayaking",
+        "subcategory": "types_of_kayaking",
+        "file": "whitewater.md"
+    },
+    {
+        "type": "page",
+        "name": "freestyle",
+        "url": "freestyle",
+        "title": "freestyle",
+        "subcategory": "types_of_kayaking",
+        "file": "freestyle.md"
+    },
+    {
+        "type": "page",
+        "name": "slalom",
+        "url": "slalom",
+        "title": "Slalom",
+        "subcategory": "types_of_kayaking",
+        "file": "slalom.md"
+    },
+    {
+        "type": "page",
+        "name": "racing",
+        "url": "racing",
+        "title": "Racing",
+        "subcategory": "types_of_kayaking",
+        "file": "racing.md"
+    },
+    {
+        "type": "page",
+        "name": "sea_touring",
+        "url": "sea_touring",
+        "title": "Touring & Sea Kayaking",
+        "subcategory": "types_of_kayaking",
+        "file": "sea_touring.md"
+    },
+    {
+        "type": "page",
+        "name": "recreational",
+        "url": "recreational",
+        "title": "Recreational",
+        "subcategory": "types_of_kayaking",
+        "file": "recreational.md"
+    },
+    {
+        "type": "page",
+        "name": "surf",
+        "url": "surf",
+        "title": "Surf Kayaking",
+        "subcategory": "types_of_kayaking",
+        "file": "surf_kayaking.md"
+    },
+    {
+        "type": "page",
+        "name": "polo",
+        "url": "polo",
+        "title": "Canoe Polo",
+        "subcategory": "types_of_kayaking",
+        "file": "polo.md"
+    },
+    {
+        "type": "page",
+        "name": "what_bc_do",
+        "url": "what_they_do",
+        "title": "What British Canoeing Do",
+        "subcategory": "british_canoeing",
+        "file": "what_bc_do.md"
+    },
+    {
+        "type": "page",
+        "name": "bc_qualifications",
+        "url": "qualifications",
+        "title": "Coures and Qualifications",
+        "subcategory": "british_canoeing",
+        "file": "bc_qualifications.md"
+    },
+    {
+        "type": "page",
+        "name": "membership",
+        "url": "membership",
+        "title": "Membership",
+        "subcategory": "british_canoeing",
+        "file": "membership.md"
+    },
+    {
+        "type": "page",
+        "name": "freestyle_glossary",
+        "url": "freestyle_glossary",
+        "title": "Freestyle Glossary",
+        "subtitle": "Learn to decipher the lingo of freestyle kayaking",
+        "categories": ["playboating"],
+        "file": "freestyle_glossary.md"
+    },
+    {
+        "type": "page",
+        "name": "kayaking_intro",
+        "url": "kayaking_intro",
+        "title": "Introduction to Kayaking",
+        "categories": ["beginners"],
+        "file": "kayaking_intro.md"
+    },
+    {
+        "type": "page",
+        "name": "starting_out",
+        "url": "starting_out",
+        "title": "Starting Out Kayaking",
+        "categories": ["beginners"],
+        "file": "starting_out.md"
+    },
+    {
+        "type": "page",
+        "name": "beginner_qualifications",
+        "url": "beginner_qualifications",
+        "title": "Beginner Qualifications",
+        "categories": ["beginners"],
+        "file": "beginner_qualifications.md"
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "type": "page",
+        "name": "coaching_on_ww",
+        "url": "coaching_on_ww",
+        "title": "Teaching on the Water",
+        "subtitle": "Tips for getting the most out of teaching others on a whitewater trip",
+        "subcategory": "whitewater_leading",
+        "file": "coaching_on_ww.md"
+    },
+    {
+        "type": "page",
+        "name": "ww_communication",
+        "url": "ww_communication",
+        "title": "Communicating on Whitewater",
+        "subcategory": "whitewater_leading",
+        "file": "ww_communication.md"
+    },
+    {
+        "type": "page",
+        "name": "setting_safety_leadership",
+        "url": "setting_safety",
+        "title": "Setting up Safety",
+        "subtitle": "What and when to set up on rapids",
+        "subcategory": "whitewater_leading",
+        "file": "setting_safety.md"
+    },
+    {
+        "type": "page",
+        "name": "clap",
+        "url": "clap",
+        "title": "CLAP",
+        "subtitle": "Principles of leadership",
+        "subcategory": "whitewater_leading",
+        "file": "clap.md"
+    },
+    {
+        "type": "page",
+        "name": "kiss",
+        "url": "kiss",
+        "title": "KISS",
+        "subtitle": "Things to remember when giving advice",
+        "subcategory": "whitewater_leading",
+        "file": "kiss.md"
+    },
+    {
+        "type": "page",
+        "name": "leading_methods",
+        "url": "leading_methods",
+        "title": "Methods of Leading",
+        "subtitle": "Different approaches to leading people down rapids, also applicable to peer paddling",
+        "subcategory": "whitewater_leading",
+        "file": "leading_methods.md"
+    },
+    {
+        "type": "page",
+        "name": "leader_briefing",
+        "url": "leader_briefing",
+        "title": "Leader Briefing",
+        "subcategory": "whitewater_leading",
+        "file": "leader_briefing.md"
+    },
+    {
+        "type": "page",
+        "name": "leader_giving_advice",
+        "url": "giving_advice",
+        "title": "Advising Other Paddlers",
+        "subcategory": "whitewater_leading",
+        "file": "leader_giving_advice.md"
+    },
+    {
+        "type": "page",
+        "name": "handling_emergencies",
+        "url": "handling_emergencies",
+        "title": "Handling Emergencies",
+        "subcategory": "whitewater_leading",
+        "file": "handling_emergencies.md"
+    },
+    {
+        "type": "page",
+        "name": "planning_trips",
+        "url": "planning_trips",
+        "title": "Planning a Trip",
+        "subcategory": "safe_trips",
+        "file": "planning_trips.md"
+    },
+    {
+        "type": "page",
+        "name": "trip_safety_on_the_day",
+        "url": "on_the_day",
+        "title": "On The Day",
+        "subcategory": "safe_trips",
+        "file": "trip_safety_on_the_day.md"
+    },
+    {
+        "type": "page",
+        "name": "trip_safety_on_the_water",
+        "url": "on_the_water",
+        "title": "On The Water",
+        "subcategory": "safe_trips",
+        "file": "trip_safety_on_the_water.md"
+    },
+    {
+        "type": "page",
+        "name": "trip_safety_qualifications",
+        "url": "safety_qualifications",
+        "title": "Qualifications",
+        "subcategory": "safe_trips",
+        "file": "trip_safety_qualifications.md"
+    },
+    {
+        "type": "page",
+        "name": "trip_safety_equipment",
+        "url": "safety_equipment",
+        "title": "Equipment",
+        "subcategory": "safe_trips",
+        "file": "trip_safety_equipment.md"
+    },
+    {
+        "type": "page",
+        "name": "facets",
+        "url": "facets",
+        "title": "FACETS",
+        "subtitle": "Luckily, nothing went wrong. But which of the below apply?",
+        "subcategory": "decision_making",
+        "file": "facets.md"
+    },
+    {
+        "type": "page",
+        "name": "walking_away",
+        "url": "walking_away",
+        "title": "Walking Away",
+        "subtitle": "Deciding when not to run something can be the hardest decision of all",
+        "subcategory": "decision_making",
+        "file": "walking_away.md"
+    },
+    {
+        "type": "page",
+        "name": "learning_from_mistakes",
+        "url": "learning_from_mistakes",
+        "title": "Learning From Mistakes",
+        "subcategory": "decision_making",
+        "file": "learning_from_mistakes.md"
+    },
+    {
+        "type": "page",
+        "name": "should_i_run_it",
+        "url": "should_i_run_it",
+        "title": "Should I Run It?",
+        "subcategory": "decision_making",
+        "file": "should_i_run_it.md"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "type": "page",
+        "name": "ww_videos",
+        "url": "videos",
+        "title": "Whitewater Videos",
+        "categories": ["whitewater"],
+        "file": "ww_videos.md"
+    },
+    {
+        "type": "page",
+        "name": "ww_tutorials",
+        "url": "tutorials",
+        "title": "Whitewater Tutorials",
+        "categories": ["whitewater", "skills"],
+        "file": "ww_tutorials.md"
+    },
+    {
+        "type": "page",
+        "name": "ww_quals",
+        "url": "qualifications",
+        "title": "Whitewater Qualifications",
+        "categories": ["whitewater","leadership"],
+        "file": "ww_quals.md"
+    },
+    {
+        "type": "page",
+        "name": "ww_progression",
+        "url": "progression",
+        "title": "Whitewater Progression",
+        "categories": ["whitewater", "skills"],
+        "file": "ww_progression.md"
+    },
+    {
+        "type": "page",
+        "name": "peer_paddling",
+        "url": "peer_paddling",
+        "title": "peer_paddling",
+        "categories": ["whitewater", "leadership"],
+        "file": "peer_paddling.md"
+    },
+    {
+        "type": "page",
+        "name": "ww_grading",
+        "url": "whitewater_grading",
+        "title": "Whitewater Grading",
+        "categories": ["whitewater"],
+        "file": "ww_grading.md"
+    }
+]

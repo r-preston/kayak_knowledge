@@ -1,0 +1,331 @@
+[
+{
+    "type": "page",
+    "name": "connectivity",
+    "url": "connectivity",
+    "title": "Connectivity",
+    "subcategory": "fundamentals",
+    "file": "connectivity.md"
+},
+{
+    "type": "page",
+    "name": "power_transfer",
+    "url": "power_transfer",
+    "title": "Power transfer",
+    "subcategory": "fundamentals",
+    "file": "power_transfer.md"
+},
+{
+    "type": "page",
+    "name": "posture",
+    "url": "posture",
+    "title": "Posture",
+    "subcategory": "fundamentals",
+    "file": "posture.md"
+},
+{
+    "type": "page",
+    "name": "forward_paddling",
+    "url": "forward_paddling",
+    "title": "Forward Paddling",
+    "subcategory": "basic_skills",
+    "file": "forward_paddling.md"
+},
+{
+    "type": "page",
+    "name": "paddler_box",
+    "url": "paddler_box",
+    "title": "The Paddler's Box",
+    "subtitle": "a.k.a monkey arms, this is the position you should always aim to mave your arms and body in",
+    "subcategory": "basic_skills",
+    "file": "paddler_box.md"
+},
+{
+    "type": "page",
+    "name": "backward_paddling",
+    "url": "backward_paddling",
+    "title": "Backwards Paddling",
+    "subcategory": "basic_skills",
+    "file": "backward_paddling.md"
+},
+{
+    "type": "page",
+    "name": "sweep_stroke",
+    "url": "sweep_stroke",
+    "title": "Basic Maneuvering",
+    "subtitle": "Simplest way to turn the boat",
+    "subcategory": "basic_skills",
+    "file": "sweep_stroke.md"
+},
+{
+    "type": "page",
+    "name": "stopping_stroke",
+    "url": "stopping_stroke",
+    "title": "Stopping",
+    "subcategory": "basic_skills",
+    "file": "stopping.md"
+},
+{
+    "type": "page",
+    "name": "edging",
+    "url": "edging",
+    "title": "Edging",
+    "subtitle": "Controlling the angle of the boat in the water",
+    "subcategory": "intermediate_skills",
+    "file": "edging.md"
+},
+{
+    "type": "page",
+    "name": "bracing",
+    "url": "bracing",
+    "title": "Bracing",
+    "subtitle": "How to stop the boat from capsizing",
+    "subcategory": "basic_skills",
+    "file": "bracing.md"
+},
+{
+    "type": "page",
+    "name": "sidewards_paddling",
+    "url": "sidewards_paddling",
+    "title": "Sidewards Paddling",
+    "subcategory": "basic_skills",
+    "file": "sidewards_paddling.md"
+},
+{
+    "type": "page",
+    "name": "rolling",
+    "url": "rolling",
+    "title": "Rolling",
+    "subtitle": "How to right the boat after a capsize",
+    "subcategory": "intermediate_skills",
+    "file": "rolling.md"
+},
+{
+    "type": "page",
+    "name": "control_strokes",
+    "url": "control_strokes",
+    "title": "Control Strokes",
+    "subtitle": "Paddle strokes for more precise and efficicent control over the boat",
+    "subcategory": "intermediate_skills",
+    "file": "control_strokes.md"
+},
+{
+    "type": "page",
+    "name": "ww_skill_intro",
+    "url": "introduction",
+    "title": "A Brief Introduction",
+    "subtitle": "A very short overview of paddling on moving water and how it differs to flat water",
+    "subcategory": "whitewater_skills",
+    "file": "ww_skill_intro.md"
+},
+{
+    "type": "page",
+    "name": "ferry_glide",
+    "url": "ferry_glide",
+    "title": "Ferrying",
+    "subtitle": "Travelling across current",
+    "subcategory": "whitewater_skills",
+    "file": "ferryglide.md"
+},
+{
+    "type": "page",
+    "name": "breakouts",
+    "url": "breakouts",
+    "title": "Breaking In And Out",
+    "subtitle": "Moving in and out of current",
+    "subcategory": "whitewater_skills",
+    "file": "breakouts.md"
+},
+{
+    "type": "page",
+    "name": "howtosurf",
+    "url": "howtosurf",
+    "title": "How to Surf",
+    "subcategory": "whitewater_skills",
+    "file": "howtosurf.md"
+},
+{
+    "type": "page",
+    "name": "basicboofing",
+    "url": "boofing",
+    "title": "How to Boof",
+    "subtitle": "'Boofing' is a technique used to get the boat over hydraulics while maintaining speed and control",
+    "subcategory": "whitewater_skills",
+    "file": "basicboofing.md"
+},
+{
+    "type": "page",
+    "name": "howtoswim",
+    "url": "howtoswim",
+    "title": "How to Swim Safely",
+    "subtitle": "Swimming is inevitable, doing it right mitigates risk",
+    "subcategory": "whitewater_skills",
+    "file": "howtoswim.md"
+},
+{
+    "type": "page",
+    "name": "spotting_hazards",
+    "url": "spotting_hazards",
+    "title": "Spotting Hazards",
+    "subcategory": "whitewater_skills",
+    "file": "spotting_hazards.md"
+},
+{
+    "type": "page",
+    "name": "reading_water",
+    "url": "reading_water",
+    "title": "Reading Whitewater",
+    "subtitle": "'Reading water' is the skill of being able to understand what water is doing, how it affects a paddler and how to exploit it",
+    "subcategory": "advanced_whitewater_skills",
+    "file": "reading_water.md"
+},
+{
+    "type": "page",
+    "name": "using_flow",
+    "url": "using_flow",
+    "title": "Momentum and Using the Flow",
+    "subtitle": "A dive into ways the boat can move, and tips on using the current to get where you want to go",
+    "subcategory": "advanced_whitewater_skills",
+    "file": "using_flow.md"
+},
+{
+    "type": "page",
+    "name": "running_waterfalls",
+    "url": "running_waterfalls",
+    "title": "Running Waterfalls",
+    "subtitle": "Pointers on running bigger drops",
+    "subcategory": "advanced_whitewater_skills",
+    "file": "running_waterfalls.md"
+},
+{
+    "type": "page",
+    "name": "advanced_boofing",
+    "url": "advanced_boofing",
+    "title": "Better Boofing",
+    "subtitle": "Different types of boof for styling various types of feature",
+    "subcategory": "advanced_whitewater_skills",
+    "file": "advanced_boofing.md"
+},
+{
+    "type": "page",
+    "name": "hole_escape",
+    "url": "hole_escape",
+    "title": "Hole Escapes",
+    "subtitle": "How to get out of retentive hydraulics",
+    "subcategory": "advanced_whitewater_skills",
+    "file": "hole_escape.md"
+},
+{
+    "type": "page",
+    "name": "stalls",
+    "url": "stalls",
+    "title": "Getting Vertical",
+    "subcategory": "playboat_skills",
+    "file": "stalls.md"
+},
+{
+    "type": "page",
+    "name": "splats",
+    "url": "splats",
+    "title": "Splats",
+    "subtitle": "Using rocks to get vertical on whitewater",
+    "subcategory": "playboat_skills",
+    "file": "splats.md"
+},
+{
+    "type": "page",
+    "name": "tailee",
+    "url": "tailee",
+    "title": "Tailee",
+    "subtitle": "Using an eddyline to get vertical",
+    "subcategory": "playboat_skills",
+    "file": "tailee.md"
+},
+{
+    "type": "page",
+    "name": "cartwheel",
+    "url": "cartwheel",
+    "title": "Cartwheels",
+    "subcategory": "playboat_skills",
+    "file": "cartwheel.md"
+},
+{
+    "type": "page",
+    "name": "freewheel",
+    "url": "freewheel",
+    "title": "Freewheels and Panams",
+    "subtitle": "180 degree rotation over a drop",
+    "subcategory": "playboat_skills",
+    "file": "freewheel.md"
+},
+{
+    "type": "page",
+    "name": "flatspin",
+    "url": "flatspin",
+    "title": "Spinning on a Wave",
+    "subcategory": "playboat_skills",
+    "file": "flatspin.md"
+},
+{
+    "type": "page",
+    "name": "advanced_playboating",
+    "url": "advanced_playboating",
+    "title": "Advanced Playboating",
+    "subtitle": "More complicated moves and combos",
+    "categories": ["playboating"],
+    "file": "adv_playboating.md"
+},
+{
+    "type": "page",
+    "name": "downriver",
+    "url": "downriver",
+    "title": "Downriver Freestyle",
+    "subtitle": "Playing features on rivers",
+    "subcategory": "freestyle_types",
+    "file": "downriver_freestyle.md"
+},
+{
+    "type": "page",
+    "name": "hole_playboating",
+    "url": "hole_playboating",
+    "title": "Hole Freestyle",
+    "subtitle": "Moves specific to holes and pourovers",
+    "subcategory": "freestyle_types",
+    "file": "hole_playboating.md"
+},
+{
+    "type": "page",
+    "name": "wave_playboating",
+    "url": "wave_playboating",
+    "title": "Wave Freestyle",
+    "subtitle": "Tricks for waves big and small",
+    "subcategory": "freestyle_types",
+    "file": "wave_playboating.md"
+},
+{
+    "type": "page",
+    "name": "skill_tutorials",
+    "url": "skill_tutorials",
+    "title": "Video Tutorials",
+    "subtitle": "A collection of good videos for learning to paddle",
+    "categories": ["skills", "beginners"],
+    "file": "skill_tutorials.md"
+},
+{
+    "type": "page",
+    "name": "playboating_tutorials",
+    "url": "playboating_tutorials",
+    "title": "Playboating Video Tutorials",
+    "subtitle": "A collection of good videos for learning freestyle",
+    "categories": ["playboating"],
+    "file": "playboating_tutorials.md"
+},
+{
+    "type": "page",
+    "name": "playboating_progression",
+    "url": "playboating_progression",
+    "title": "Playboating Progression",
+    "categories": ["playboating"],
+    "file": "playboating_progression.md"
+}
+]

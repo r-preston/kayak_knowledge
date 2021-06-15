@@ -1,16 +1,169 @@
 [
     {
         "type": "subcategory",
-        "name": "skills_sc",
-        "title": "skills_sc",
-        "url": "skills_sc",
+        "name": "basic_skills",
+        "url": "basic_skills",
+        "title": "Basic Skills",
+        "description": "Core skills for controlling a boat",
+        "categories": ["skills", "beginners"]
+    },
+    {
+        "type": "subcategory",
+        "name": "types_of_kayaking",
+        "url": "types_of_kayaking",
+        "title": "Types of Kayaking",
+        "categories": ["beginners"]
+    },
+    {
+        "type": "subcategory",
+        "name": "intermediate_skills",
+        "url": "intermediate_skills",
+        "title": "Intermediate Skills",
+        "description": "More technical skills for finer boat control",
         "categories": ["skills"]
     },
     {
         "type": "subcategory",
-        "name": "whitewater_sc",
-        "title": "whitewater_sc",
-        "url": "whitewater_sc",
+        "name": "whitewater_skills",
+        "url": "whitewater_skills",
+        "title": "Whitewater Skills",
+        "description": "Essential skills for controlling a boat on moving water",
+        "categories": ["skills", "whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "advanced_whitewater_skills",
+        "url": "advanced_whitewater_skills",
+        "title": "Advanced Whitewater Skills",
+        "description": "Skills for precise boat control and running harder rapids",
+        "categories": ["skills", "whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "playboat_skills",
+        "url": "playboat_skills",
+        "title": "Playboat Skills",
+        "description": "Basic tricks for learning to playboat",
+        "categories": ["skills", "playboating"]
+    },
+    {
+        "type": "subcategory",
+        "name": "freestyle_types",
+        "url": "freestyle_types",
+        "title": "Types of Freestyle",
+        "description": "Playboating falls into three main categories, characterised by different moves and styles",
+        "categories": ["playboating"]
+    },
+    {
+        "type": "subcategory",
+        "name": "boat_design",
+        "url": "boat_design",
+        "title": "Boat Design",
+        "description": "Breakdown of what features on boats do, what makes boats different and what they are designed for",
+        "categories": ["equipment", "whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "kit_investment",
+        "url": "kit_investment",
+        "title": "Investing in Kit",
+        "description": "If you're asking yourself if you should buy some kit or don't know what to get, hopefully this advice should help",
+        "categories": ["equipment", "beginners"]
+    },
+    {
+        "type": "subcategory",
+        "name": "river_features",
+        "url": "river_features",
+        "title": "Whitewater Features",
+        "subtitle": "The main components of whitewater rapids",
+        "description": "The main components of whitewater rapids",
         "categories": ["whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "fundamentals",
+        "url": "fundamentals",
+        "title": "Paddling Fundamentals",
+        "subtitle": "Key techniques underpinning all paddling skills",
+        "description": "These basic techniques are essential for good execution of any paddling, from efficient flatwater paddling to the hardest whitewater. They are easy to learn and hard to perfect, good paddlers will practice these skills continually throughout their career",
+        "categories": ["skills", "beginners"]
+    },
+    {
+        "type": "subcategory",
+        "name": "warwick_canoe",
+        "url": "warwick_canoe",
+        "title": "What Warwick Canoe Do",
+        "description": "An overview of what events and opportunities the club offers",
+        "categories": ["beginners"]
+    },
+    {
+        "type": "subcategory",
+        "name": "whitewater_leading",
+        "url": "whitewater_leading",
+        "title": "Leading on Whitewater",
+        "description": "Good leadership is important in potentially dangerous environments like whitewater. Here are some tips on how to do it effectively. Most of this information is also very relevant for peer paddling.",
+        "categories": ["leadership", "whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "safety_skills",
+        "url": "safety_skills",
+        "title": "Safety Skills",
+        "subtitle": "Techniques for rescues",
+        "description": "Swims and other problems inevitably happen, these resources aim to educate how to respond effectively",
+        "categories": ["safety", "skills", "whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "rescues",
+        "url": "rescues",
+        "title": "Rescues",
+        "subtitle": "How to plan and go about a rescue",
+        "description": "Things to think about before, during and after a rescue",
+        "categories": ["safety", "whitewater", "leadership"]
+    },
+    {
+        "type": "subcategory",
+        "name": "rescue_scenarios",
+        "url": "rescue_scenarios",
+        "title": "Rescue Scenarios",
+        "description": "A selection of more common ways things can go wrong, and how to deal with them",
+        "categories": ["safety", "whitewater", "leadership"]
+    },
+    {
+        "type": "subcategory",
+        "name": "safe_trips",
+        "url": "safe_trips",
+        "title": "Keeping Trips Safe",
+        "subtitle": "How to run a trip well",
+        "description": "When planning a trip either as a leader or as a peer group, there is a lot to consider to make sure accidents don't happen",
+        "categories": ["leadership", "safety", "whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "decision_making",
+        "url": "decision_making",
+        "title": "Descision Making",
+        "subtitle": "How do you know you're making good choices?",
+        "description": "Most paddling accidents are caused by overconfidence or lack of knowledge. Making good decisions is important but can be very difficult, especially in unfamiliar or stressful situations. Having an awareness of common mistakes and mental biases can help spot problems before they happen.",
+        "categories": ["leadership", "safety", "whitewater"]
+    },
+    {
+        "type": "subcategory",
+        "name": "british_canoeing",
+        "url": "british_canoeing",
+        "title": "British Canoeing",
+        "subtitle": "Learn more about the UK's paddling authority",
+        "description": "BC is the umbrella organisation for all paddlesports in the UK. Offering resources, coaching, qualifications, competitions, insurance and much more; beyond your club they are the go-to for paddling information.",
+        "categories": ["beginners"]
+    },
+    {
+        "type": "subcategory",
+        "name": "coaching_skills",
+        "url": "coaching_skills",
+        "title": "How to Coach Basic Skills",
+        "subtitle": "A deeper dive into skills and how to coach them",
+        "description": "Rather than just telling you how to do things, these pages go into a more detailed breakdown of why things work, and mistakes people commonly make trying to learn them",
+        "categories": ["coaching"]
     }
 ]

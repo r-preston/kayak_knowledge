@@ -1,0 +1,116 @@
+[
+    {
+        "type": "page",
+        "name": "types_of_boat",
+        "url": "types_of_boat",
+        "title": "Types of Boat",
+        "subcategory": "boat_design",
+        "file": "types_of_boat.md"
+    },
+    {
+        "type": "page",
+        "name": "boat_fit",
+        "url": "boat_fit",
+        "title": "Boat Fit",
+        "subcategory": "boat_design",
+        "file": "boat_fit.md"
+    },
+    {
+        "type": "page",
+        "name": "hull_design",
+        "url": "hull_design",
+        "title": "Hull Design",
+        "subtitle": "How the bottom of the boat affects how it behaves",
+        "subcategory": "boat_design",
+        "file": "hull_design.md"
+    },
+    {
+        "type": "page",
+        "name": "rocker",
+        "url": "rocker",
+        "title": "Rocker",
+        "subtitle": "How the amount the end of the boats are raised affects it",
+        "subcategory": "boat_design",
+        "file": "rocker.md"
+    },
+    {
+        "type": "page",
+        "name": "boat_dimensions",
+        "url": "boat_dimensions",
+        "title": "Volume and Dimensions",
+        "subcategory": "boat_design",
+        "file": "boat_dimensions.md"
+    },
+    {
+        "type": "page",
+        "name": "outfitting",
+        "url": "outfitting",
+        "title": "Outfitting and Safety",
+        "subcategory": "boat_design",
+        "file": "outfitting.md"
+    },
+    {
+        "type": "page",
+        "name": "where_to_start_kit",
+        "url": "where_to_start",
+        "title": "Where to Start",
+        "subcategory": "kit_investment",
+        "file": "where_to_start_kit.md"
+    },
+    {
+        "type": "page",
+        "name": "choosing_a_paddle",
+        "url": "choosing_a_paddle",
+        "title": "Choosing a Paddle",
+        "subcategory": "kit_investment",
+        "file": "choosing_a_paddle.md"
+    },
+    {
+        "type": "page",
+        "name": "choosing_a_boat",
+        "url": "choosing_a_boat",
+        "title": "Choosing a Boat",
+        "subcategory": "kit_investment",
+        "file": "choosing_a_boat.md"
+    },
+    {
+        "type": "page",
+        "name": "kit_overview",
+        "url": "kit_overview",
+        "title": "Overview",
+        "categories": ["equipment", "beginners"],
+        "file": "kit_overview.md"
+    },
+    {
+        "type": "page",
+        "name": "kit_essentials",
+        "url": "kit_essentials",
+        "title": "kit_essentials",
+        "categories": ["equipment", "beginners"],
+        "file": "kit_essentials.md"
+    },
+    {
+        "type": "page",
+        "name": "safety_kit",
+        "url": "safety_kit",
+        "title": "Safety Kit",
+        "categories": ["equipment"],
+        "file": "safety_kit.md"
+    },
+    {
+        "type": "page",
+        "name": "playboat_design",
+        "url": "playboat_design",
+        "title": "Playboat Design and Fit",
+        "categories": ["equipment", "playboating"],
+        "file": "playboat_design.md"
+    },
+    {
+        "type": "page",
+        "name": "buying_kit",
+        "url": "buying_kit",
+        "title": "Buying Kit",
+        "categories": ["equipment"],
+        "file": "buying_kit.md"
+    }
+]
