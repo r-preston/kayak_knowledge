@@ -29,6 +29,8 @@ for file in os.listdir("./"):
 
 for item in json_data:
     found = False
+    found_type = None
+    found_content = None
 
     if 'title' in item:
         if search in item['title']:
@@ -39,8 +41,10 @@ for item in json_data:
     if 'subtitle' in item:
         if search in item['subtitle']:
             found = True
+            found_type = 'subtitle'
     if 'description' in item:
         if search in item['description']:
+            found_type = 'description'
             found = True
     if 'url' in item:
         if search in item['url']:
@@ -49,8 +53,15 @@ for item in json_data:
         try:
             with open('content/'+item['file'], 'r') as contentfile:
                 content = contentfile.read()
-                if search in content:
+                index = content.find(search)
+                if index > -1:
                     found = True
+                    found_type = 'file'
+                    temp = content[index:index+30].replace("\r", "")
+                    end_pos = temp.find('\n')
+                    if(end_pos == -1):
+                        end_pos = len(temp)
+                    found_content = "Line {}: \"...{}...\"".format(content[:index].count('\n')+1, temp[:end_pos])
         except:
             pass
 
@@ -62,5 +73,11 @@ for item in json_data:
         print("    Name:  "+item['name'])
         if 'file' in item:
             print("    File:  "+item['file'])
+        if found_type == 'description':
+            print("    \"{}\"".format(item['description']))
+        if found_type == 'subtitle':
+            print("    \"{}\"".format(item['subtitle']))
+        if found_type == 'file':
+            print("      {}".format(found_content))
         print()
 

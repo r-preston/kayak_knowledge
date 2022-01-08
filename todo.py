@@ -24,6 +24,7 @@ for file in os.listdir("./"):
 
 for item in json_data:
     found = False
+    found_line = None
 
     for search in searches:
 
@@ -46,8 +47,10 @@ for item in json_data:
             try:
                 with open('content/'+item['file'], 'r') as contentfile:
                     content = contentfile.read()
-                    if search in content:
+                    index = content.find(search)
+                    if index > -1:
                         found = True
+                        found_line = content[:index].count('\n')+1
             except:
                 pass
 
@@ -58,6 +61,9 @@ for item in json_data:
         print("    Title: "+item['title'])
         print("    Name:  "+item['name'])
         if 'file' in item:
-            print("    File:  "+item['file'])
+            if found_line is not None:
+                print("    File:  {} (line {})".format(item['file'], found_line))
+            else:
+                print("    File:  "+item['file'])
         print()
 
